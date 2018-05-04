@@ -1,0 +1,4 @@
+untuk menampilkan dan menghapus isi database --> https://[::1]/Codelgniter/index.php/Welcome/Show
+
+untuk menambahkan inputan --> https://[::1]/Codelgniter/index.php/Welcome/insert
+
